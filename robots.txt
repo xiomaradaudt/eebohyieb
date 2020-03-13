@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nohchaephi.nhdiglib.org/sitemap.xml
